@@ -1,5 +1,5 @@
 function Scooter(year, color,model) {
-    this.name = name;
+    this.year = name;
     this.email = email;
     this.model = model
 
@@ -10,8 +10,6 @@ function Driver (name, age,experience) {
     this.name = name;
     this.age = age;
     this.experience = experience;
-
-
 }
 
 
