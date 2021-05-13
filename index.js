@@ -1,4 +1,4 @@
-function switchcooter(year, color,model) {
+function scooter(year, color,model) {
     this.year = name;
     this.email = email;
     this.model = model;
