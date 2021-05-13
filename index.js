@@ -1,4 +1,4 @@
-function scooter(year, color,model) {
+function Scooter(year, color,model) {
     this.year = name;
     this.email = email;
     this.model = model;
