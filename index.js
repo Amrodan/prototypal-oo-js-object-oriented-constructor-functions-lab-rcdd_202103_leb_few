@@ -1,7 +1,7 @@
 function Scooter(year, color,model) {
     this.year = name;
     this.email = email;
-    this.model = model
+    this.model = model;
 
 }
 
